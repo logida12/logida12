@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @logida12
-- 👀 I’m interested in cyber security-Forensics 
 - 🌱 I’m currently pursuing masters in computer science at Florida tech
   
 
